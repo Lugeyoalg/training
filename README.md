@@ -1,5 +1,5 @@
 # training
-doenload the files before everything.
+download the files before everything.
 these file are only designed to exercise and test your capacity.
 here oultined the tasks to do:
 

@@ -10,7 +10,9 @@ here oultined the tasks to do:
 - change color buttons into green
 - add one section page which is linked to any button in the site.
 
-note: you have been given only 2 days to complete this and resubmit to www.alg-technologies.com/ulpoad.
+note: you have been given only 2 days to complete this and resubmit to www.alg-technologies.com/ulpoad.php
+    
+    
     zip your files and submut them there for corrrection.
     
     
